@@ -1,0 +1,10 @@
+- tab: "Dopplereffect"
+  testcases:
+    - stdin: |-
+        10
+        80
+      stdout: 13.04182509506
+    - stdin: |-
+        4.2
+        8.49
+      stdout: 4.3065977101
