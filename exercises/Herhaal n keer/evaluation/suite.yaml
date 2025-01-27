@@ -5,18 +5,18 @@
         2
       stdout: Dit is een testDit is een test
     - stdin: |-
-        "Test"
-        "16"
-      stdout: "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest"
+        Test
+        16
+      stdout: TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
     - stdin: |-
-        "Foo"
-        "5"
-      stdout: "FooFooFooFooFoo"
+        Foo
+        5
+      stdout: FooFooFooFooFoo
     - stdin: |-
-        "Bar"
-        "1"
-      stdout: "Barmkqdjn"
+        Bar
+        1
+      stdout: Bar
     - stdin: |-
-        "FooBar"
-        "9"
-      stdout: "FooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBar"
+        FooBar
+        9
+      stdout: FooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBar
