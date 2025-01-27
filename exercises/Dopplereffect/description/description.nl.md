@@ -2,21 +2,21 @@ De wet van Doppler zegt dat de frequentie van een geluidsbronverhoogt of verlaag
 
 Schrijf een programma dat de vervormde geluidsfrequentie $f_w$ berekend via de onderstaande formule:
 
-$f_w = f_b\frac{c_s}{c_s-v_b}$
+$$f_w = f_b\frac{c_s}{c_s-v_b}$$
 
 Hierbij is...
-- $`f_b`$ de geluidsfrequentie van geluidsbron (in Hertz)
-- `v_b` de snelheid van geluidsbron (in meter per seconde)
-- $c_s$ de snelheid van het geluid door lucht: $343\frac{m}{s}$
+- $$f_b$$ de geluidsfrequentie van geluidsbron (in Hertz)
+- $$v_b$$ de snelheid van geluidsbron (in meter per seconde)
+- $$c_s$$ de snelheid van het geluid door lucht: $$343\frac{m}{s}$$
 
 ## Invoer
 
-- Een reëel getal $f_b$
-- Een reëel getal $v_b$
+- Een reëel getal $$f_b$$
+- Een reëel getal $$v_b$$
 
 ## Uitvoer
 
-- Een reëel getal $f_w$
+- Een reëel getal $$f_w$$
 
 ## Voorbeelden
 
