@@ -5,8 +5,8 @@ Schrijf een programma dat de vervormde geluidsfrequentie $f_w$ berekend via de o
 $f_w = f_b\frac{c_s}{c_s-v_b}$
 
 Hierbij is...
-- $f_b$ de geluidsfrequentie van geluidsbron (in Hertz)
-- $v_b$ de snelheid van geluidsbron (in meter per seconde)
+- $`f_b`$ de geluidsfrequentie van geluidsbron (in Hertz)
+- `v_b` de snelheid van geluidsbron (in meter per seconde)
 - $c_s$ de snelheid van het geluid door lucht: $343\frac{m}{s}$
 
 ## Invoer
