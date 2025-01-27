@@ -1,0 +1,16 @@
+- tab: "signum"
+  testcases:
+    - expression: "signum(12)"
+      return: 1
+    - expression: "signum(0)"
+      return: 0
+    - expression: "signum(-7)"
+      return: -1
+    - expression: "signum(999999.291)"
+      return: 1
+    - expression: "signum(-0.131)"
+      return: -1
+
+
+
+

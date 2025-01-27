@@ -1,0 +1,26 @@
+- tab: "Herhaal n keer"
+  testcases:
+    - stdin: |-
+        'Dit is een test'
+        2
+      stdout: 'Dit is een testDit is een test'
+    - stdin: |-
+        'Test'
+        16
+      stdout: 'TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest'
+    - stdin: |-
+        'Foo'
+        5
+      stdout: 'FooFooFooFooFoo'
+    - stdin: |-
+        'Bar'
+        1
+      stdout: 'Bar'
+    - stdin: |-
+        "FooBar"
+        9
+      stdout: 'FooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBar'
+
+
+
+

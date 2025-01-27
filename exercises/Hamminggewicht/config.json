@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "en": "Hamming distance",
+      "nl": "Hamminggewicht"
+    }
+  },
+  "labels": [
+    "python",
+    "for"
+  ],
+  "internals": {
+    "token": "UE_f7eIraAanAIRRfTsXCiTju428hrFGFDy5RMUEaxf3gDmTefHhBDJTe8hxGSzX",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}

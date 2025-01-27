@@ -1,0 +1,20 @@
+- tab: "Hamminggewicht"
+  testcases:
+    - stdin: '00100'
+      stdout: '1'
+    - stdin: '11111111111'
+      stdout: '11'
+    - stdin: '00000000000000000'
+      stdout: '0'
+    - stdin: '1010101010'
+      stdout: '5'
+    - stdin: '111110100'
+      stdout: '6'
+    - stdin: '100000001'
+      stdout: '2'
+    - stdin: '111000111000111000'
+      stdout: '9'
+
+
+
+

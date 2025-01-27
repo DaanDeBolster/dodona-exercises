@@ -1,0 +1,16 @@
+- tab: "harmonisch"
+  testcases:
+    - expression: "harmonisch(1)"
+      return: 1.0
+    - expression: "harmonisch(2)"
+      return: 1.5
+    - expression: "harmonisch(6)"
+      return: 2.45
+    - expression: "harmonisch(20)"
+      return: 3.5977396571 
+    - expression: "harmonisch(8)"
+      return: 2.7178571429
+
+
+
+

@@ -1,0 +1,9 @@
+- tab: "Hello world!"
+  testcases:
+    - stdout: 'Hello world!'
+    # - expression: ""
+    # - return: 
+    # - expression: 'echo(42)'
+    #   return: 42
+    # - expression: 'echo("A\nstring\nwith\nnewlines")'
+    #   return: "A\nstring\nwith\nnewlines"

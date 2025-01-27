@@ -1,15 +1,17 @@
 {
   "description": {
     "names": {
-      "en": "Echo function",
-      "nl": "Echofunctie"
+      "en": "-",
+      "nl": "Signumfunctie"
     }
   },
   "labels": [
-    "template"
+    "python",
+    "functions"
   ],
   "internals": {
-    "token": "JM58_RhvzTzwahntsBnGi7zqB8ESY_vkBXvr_TZVhGJMByY8HGrDC4jXrs8C5-Sh",
+    "token": "aEEI2hA9237-bEiJxfYqaiv4dCrRRcicfjh4V9H_nUpcUw35F7W5mA-bNrYx8N-c",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  },
+  "access": "public"
 }

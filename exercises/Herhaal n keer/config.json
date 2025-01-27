@@ -1,15 +1,17 @@
 {
   "description": {
     "names": {
-      "en": "Echo function",
-      "nl": "Echofunctie"
+      "en": "-",
+      "nl": "Herhaal n keer"
     }
   },
   "labels": [
-    "template"
+    "python",
+    "string"
   ],
   "internals": {
-    "token": "JM58_RhvzTzwahntsBnGi7zqB8ESY_vkBXvr_TZVhGJMByY8HGrDC4jXrs8C5-Sh",
+    "token": "MwiPSUye87DaDxeP4hNZ_-_rfWfiX9__sDPcm-SECHdWUImbbndcKe-vxUIGu3_M",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  },
+  "access": "public"
 }
