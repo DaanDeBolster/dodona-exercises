@@ -1,6 +1,6 @@
 De wet van Doppler zegt dat de frequentie van een geluidsbronverhoogt of verlaagt als de geluidsbron beweegt. Om die reden klinkt bijvoorbeeld de sirene van een ziekenwagen hoger of lager dan normaal als ze voorbij rijdt. 
 
-Schrijf een programma dat de vervormde geluidsfrequentie $f_w$ berekend via de onderstaande formule:
+Schrijf een programma dat de vervormde geluidsfrequentie $$f_w$$ berekend via de onderstaande formule:
 
 $$f_w = f_b\frac{c_s}{c_s-v_b}$$
 
