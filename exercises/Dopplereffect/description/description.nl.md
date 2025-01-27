@@ -7,7 +7,7 @@ $f_w = f_b\frac{c_s}{c_s-v_b}$
 Hierbij is...
 - $f_b$ de geluidsfrequentie van geluidsbron (in Hertz)
 - $v_b$ de snelheid van geluidsbron (in meter per seconde)
-- $c_s$ de snelheid van het geluid door lucht: $343 \frac{m}{s}$
+- $c_s$ de snelheid van het geluid door lucht: $343\frac{m}{s}$
 
 ## Invoer
 
@@ -23,9 +23,9 @@ Hierbij is...
 ```
 >>> 10
 >>> 80
-13.04182509506
+13.041825095057034
 
 >>> 4.2
 >>> 8.49
-4.3065977101
+4.306597710083406
 ```
