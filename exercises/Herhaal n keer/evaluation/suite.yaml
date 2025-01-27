@@ -15,7 +15,7 @@
     - stdin: |-
         "Bar"
         "1"
-      stdout: "Bar"
+      stdout: "Baryeeeeeee"
     - stdin: |-
         "FooBar"
         "9"
