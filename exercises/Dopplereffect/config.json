@@ -2,12 +2,11 @@
   "description": {
     "names": {
       "en": "-",
-      "nl": "Herhaal n keer"
+      "nl": "Dopplereffect"
     }
   },
   "labels": [
-    "python",
-    "string"
+    "python"
   ],
   "internals": {
     "token": "XMh7ciUFhspA2KVZ_2u5TS972jWkptDWpXUw_xKbYqSvt7-3pyAhKYKDTNrgaI8q",
