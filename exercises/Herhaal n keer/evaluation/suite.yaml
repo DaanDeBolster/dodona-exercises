@@ -2,7 +2,7 @@
   testcases:
     - stdin: |-
         Dit is een test
-        2"
+        2
       stdout: Dit is een testDit is een test
     - stdin: |-
         "Test"
