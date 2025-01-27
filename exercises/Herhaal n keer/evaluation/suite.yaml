@@ -5,11 +5,11 @@
         2
       stdout: Dit is een testDit is een test
     - stdin: |-
-        'Test'
+        Test
         16
       stdout: TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
     - stdin: |-
-        'Foo'
+        Foo
         5
       stdout: FooFooFooFooFoo
     - stdin: |-
