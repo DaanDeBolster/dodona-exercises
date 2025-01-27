@@ -1,25 +1,25 @@
 - tab: "Herhaal n keer"
   testcases:
     - stdin: |-
-        'Dit is een test'
+        Dit is een test
         2
-      stdout: 'Dit is een testDit is een test'
+      stdout: Dit is een testDit is een test
     - stdin: |-
         'Test'
         16
-      stdout: 'TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest'
+      stdout: TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
     - stdin: |-
         'Foo'
         5
-      stdout: 'FooFooFooFooFoo'
+      stdout: FooFooFooFooFoo
     - stdin: |-
-        'Bar'
+        Bar
         1
-      stdout: 'Bar'
+      stdout: Bar
     - stdin: |-
-        "FooBar"
+        FooBar
         9
-      stdout: 'FooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBar'
+      stdout: FooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBarFooBar
 
 
 
