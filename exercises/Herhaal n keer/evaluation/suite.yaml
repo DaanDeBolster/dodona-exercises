@@ -1,9 +1,9 @@
 - tab: "Herhaal n keer"
   testcases:
     - stdin: |-
-        "Dit is een test"
-        "2"
-      stdout: "Dit is een testDit is een test"
+        Dit is een test
+        2"
+      stdout: Dit is een testDit is een test
     - stdin: |-
         "Test"
         "16"
