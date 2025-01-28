@@ -2,6 +2,10 @@ De wet van Doppler zegt dat de frequentie van een geluidsbronverhoogt of verlaag
 
 ![alt text](https://cdn.hswstatic.com/gif/distance-formula.jpg)
 
+sldkfj
+
+<img src="https://cdn.hswstatic.com/gif/distance-formula.jpg" width="128"/>
+
 
 Schrijf een programma dat de vervormde geluidsfrequentie $$f_w$$ berekend via de onderstaande formule:
 
