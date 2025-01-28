@@ -1,4 +1,7 @@
-fb = float(input())
-vb = float(input())
-cs = 343
-print(fb*cs/(cs-vb))
+from math import sqrt
+
+x1 = float(input())
+y1 = float(input())
+x2 = float(input())
+y2 = float(input())
+print(sqrt((x2-x1)**2+(y2-y1)**2))
