@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "-",
+      "nl": "Afstand tussen punten"
+    }
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "4gM2Ybb8BhtsmxQyP9QhUBFhmMj4Bqb-rF_mPMVxhwAha2YmMairWuYMcserMNR3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
