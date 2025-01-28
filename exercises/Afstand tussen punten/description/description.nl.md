@@ -1,10 +1,7 @@
 De wet van Doppler zegt dat de frequentie van een geluidsbronverhoogt of verlaagt als de geluidsbron beweegt. Om die reden klinkt bijvoorbeeld de sirene van een ziekenwagen hoger of lager dan normaal als ze voorbij rijdt. 
 
-![alt text](https://cdn.hswstatic.com/gif/distance-formula.jpg)
 
-sldkfj
-
-<img src="https://cdn.hswstatic.com/gif/distance-formula.jpg" width="128"/>
+<img src="https://cdn.hswstatic.com/gif/distance-formula.jpg" width="516"/>
 
 
 Schrijf een programma dat de vervormde geluidsfrequentie $$f_w$$ berekend via de onderstaande formule:
