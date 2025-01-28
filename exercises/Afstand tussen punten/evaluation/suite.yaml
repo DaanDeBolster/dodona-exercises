@@ -1,4 +1,4 @@
-- tab: "Dopplereffect"
+- tab: "Afstand tussen punten"
   testcases:
     - stdin: |-
         7
@@ -6,3 +6,46 @@
         4
         6
       stdout: "5.0"
+    - stdin: |-
+        1
+        2
+        3
+        4
+      stdout: "2.8284271247461903"
+    - stdin: |-
+        3
+        -3
+        0
+        0
+      stdout: "4.242640687119285"
+    - stdin: |-
+        0
+        -1.5
+        3
+        -4.5
+      stdout: "4.242640687119285"
+    - stdin: |-
+        8
+        -10
+        8
+        -10
+      stdout: "0.0"
+    - stdin: |-
+        0
+        0
+        0
+        0
+      stdout: "0.0"
+  
+
+
+
+
+
+
+
+
+
+
+
+

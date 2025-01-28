@@ -30,7 +30,11 @@ Schrijf een programma dat de coördinaten van twee punten vraagt en de afstand t
 >>> 10
 5.0
 
->>> 
->>> 8.49
-4.306597710083406
+>>> 1
+>>> 2
+>>> 3
+>>> 4
+2.8284271247461903
 ```
+
+
