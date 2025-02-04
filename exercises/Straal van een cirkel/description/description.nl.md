@@ -8,7 +8,7 @@ Hierbij zijn...
 - $$a$$, $$b$$ en $$c$$ de basis, hoogte en diepte van de balk.
 - $$d$$ de lengte van de diagonaal van de balk.
 - 
-![alt text](./diagonaal.png)
+![alt text](./diagonaal.jpg)
 
 <!-- <img src="./diagonaal.png" width="516"/> -->
 
