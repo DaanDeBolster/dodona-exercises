@@ -1,4 +1,4 @@
-Schrijf een programma dat aan de gebruiker een tekst vraagt, samen met een getal. Dat getal bepaald hoeveel keer de tekst moet herhaald worden in de uitvoer.
+Het Doppler
 
 ## Invoer
 
