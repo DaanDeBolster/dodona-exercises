@@ -1,4 +1,4 @@
-- tab: "Afstand tussen punten"
+- tab: "Diagonaal van een balk"
   testcases:
     - stdin: |-
         1
@@ -11,21 +11,15 @@
         6
       stdout: "7.0"
     - stdin: |-
+        -1.5
         3
-        -3
         0
-        0
-      stdout: "4.242640687119285"
+      stdout: "3.3541019662496847"
     - stdin: |-
         0
         -1.5
         3
-      stdout: "4.242640687119285"
-    - stdin: |-
-        8
-        -10
-        8
-      stdout: "0.0"
+      stdout: "3.3541019662496847"
     - stdin: |-
         0
         0
