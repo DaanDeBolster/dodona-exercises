@@ -8,7 +8,7 @@ Hierbij zijn...
 - $$a$$, $$b$$ en $$c$$ de basis, hoogte en diepte van de balk.
 - $$d$$ de lengte van de diagonaal van de balk.
 
-<img src="https://images.app.goo.gl/you8otaUkh3m8r1n9" width="516"/>
+<img src="https://images.app.goo.gl/9zc9ZGvqsZQQBXpLA" width="516"/>
 
 Schrijf een programma dat de basis, hoogte en diepte vraagt en de lengte van de diagonaal teruggeeft.
 
