@@ -2,11 +2,12 @@
   "description": {
     "names": {
       "en": "-",
-      "nl": "Diagonaal van een balk"
+      "nl": "Blad steen schaar"
     }
   },
   "labels": [
-    "python"
+    "python",
+    "while"
   ],
   "internals": {
     "token": "rzkbSf2UUFQDQkxRQwEqJRfeeNqEnAUQHFvezrR2r9EEDQh-Ug5hzeXjU-kHseaH",
