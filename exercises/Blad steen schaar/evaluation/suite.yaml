@@ -1,4 +1,4 @@
-- tab: "Diagonaal van een balk"
+- tab: "Blad steen schaar"
   testcases:
     - stdin: |-
         blad
