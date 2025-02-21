@@ -2,40 +2,40 @@
   testcases:
     - stdin: |-
         3
-      stdout: True
+      stdout: "True"
     - stdin: |-
         2
-      stdout: False
+      stdout: "False"
     - stdin: |-
         12
-      stdout: False
+      stdout: "False"
     - stdin: |-
         1
-      stdout: True
+      stdout: "True"
     - stdin: |-
         10000
-      stdout: True
+      stdout: "True"
     - stdin: |-
         1212
-      stdout: False
+      stdout: "False"
     - stdin: |-
         2500
-      stdout: True
+      stdout: "True"
     - stdin: |-
         12321
-      stdout: True
+      stdout: "True"
     - stdin: |-
         123211
-      stdout: False
+      stdout: "False"
     - stdin: |-
         81
-      stdout: True
+      stdout: "True"
     - stdin: |-
         55
-      stdout: False
+      stdout: "False"
     - stdin: |-
         121
-      stdout: True
+      stdout: "True"
   
 
 
