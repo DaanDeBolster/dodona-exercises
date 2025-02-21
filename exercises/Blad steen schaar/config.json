@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "-",
+      "nl": "Diagonaal van een balk"
+    }
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "rzkbSf2UUFQDQkxRQwEqJRfeeNqEnAUQHFvezrR2r9EEDQh-Ug5hzeXjU-kHseaH",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}

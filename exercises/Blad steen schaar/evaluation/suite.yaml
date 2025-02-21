@@ -1,0 +1,89 @@
+- tab: "Diagonaal van een balk"
+  testcases:
+    - stdin: |-
+        blad
+        steen
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        steen
+        schaar
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        schaar
+        blad
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        steen
+        blad
+      stdout: "Speler 2 is gewonnen!"
+    - stdin: |-
+        schaar
+        steen
+      stdout: "Speler 2 is gewonnen!"
+    - stdin: |-
+        blad
+        schaar
+      stdout: "Speler 2 is gewonnen!"
+    - stdin: |-
+        steen
+        steen
+        blad
+        steen
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        schaar
+        schaar
+        blad
+        blad
+        steen
+        schaar
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        blad
+        blad
+        blad
+        blad
+        steen
+        steen
+        schaar
+        blad
+      stdout: "Speler 1 is gewonnen!"
+    - stdin: |-
+        schaar
+        schaar
+        steen
+        blad
+      stdout: "Speler 2 is gewonnen!"
+    - stdin: |-
+        blad
+        blad
+        steen
+        steen
+        schaar
+        schaar
+        steen
+        steen
+        schaar
+        schaar
+        blad
+        blad
+        steen
+        steen
+        schaar
+        schaar
+        schaar
+        steen
+      stdout: "Speler 2 is gewonnen!"
+  
+
+
+
+
+
+
+
+
+
+
+
+
