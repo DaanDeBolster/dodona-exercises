@@ -1,7 +1,7 @@
 - tab: "Blad steen schaar"
   testcases:
     - stdin: |-
-        3
+        4
       stdout: "True"
     - stdin: |-
         2
