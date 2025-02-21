@@ -1,34 +1,38 @@
-Schrijf een programma dat het spelletje "Blad steen schaar" implementeerd.
+Schrijf een programma dat controleert of een getal een volkomen kwadraat is. 
 
-Speler 1 en speler 2 vullen achtereenvolgend `blad`, `steen` of `schaar` in:
-- In de volgende gevallen print je `Speler 1 is gewonnen!`:
-  - Speler 1: `blad` | Speler 2: `steen`
-  - Speler 1: `steen` | Speler 2: `schaar`
-  - Speler 1: `schaar` | Speler 2: `blad`
-- In de volgende gevallen print je `Speler 2 is gewonnen!`:
-  - Speler 1: `blad` | Speler 2: `schaar`
-  - Speler 1: `steen` | Speler 2: `blad`
-  - Speler 1: `schaar` | Speler 2: `steen`
-- Wanneer beide spelers hetzelfde ingeven is het gelijkspel en herhaalt het spel zich. Je vraagt dan dus om twee nieuwe inzetten in te voeren.
+Een volkomen kwadraat $$a$$ is een natuurlijk getal waarvoor een ander natuurlijk getal $$b$$ bestaat zodat $$b^2 = a$$. Bijvoorbeeld $$9$$ is een volkomen kwadraat want $$3^2=9$$.
+
+Of met andere woorden, de vierkantswortel van een volkomen kwadraat is een steeds natuurlijk getal. 
+
+## Invoer
+
+- 1 geheel getal, waarvan je mag uitgaan dat het groter dan nul.
+
+## Invoer
+
+- `True` als het ingevoerde getal een volkomen kwadraat is. Anders `False`.
+
+## Opmerking
+
+Schrijf het programma zonder `sqrt` te gebruiken. Een goede methode is een `while`-lus te implementeren die vanaf $$1$$ alle mogelijke natuurlijke getallen tot het ingevoerde getal controleert.
 
 ## Voorbeelden
 
 ```
->>> blad
->>> steen
-Speler 1 is gewonnen!
+>>> 9
+True
 
->>> schaar
->>> steen
-Speler 1 is gewonnen!
+>>> 25
+True
 
->>> schaar
->>> schaar
->>> steen
->>> steen
->>> blad
->>> schaar
-Speler 2 is gewonnen!
+>>> 12
+False
+
+>>> 19
+False
+
+>>> 100
+True
 ```
 
 

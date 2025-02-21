@@ -1,79 +1,41 @@
 - tab: "Blad steen schaar"
   testcases:
     - stdin: |-
-        blad
-        steen
-      stdout: "Speler 1 is gewonnen!"
+        3
+      stdout: True
     - stdin: |-
-        steen
-        schaar
-      stdout: "Speler 1 is gewonnen!"
+        2
+      stdout: False
     - stdin: |-
-        schaar
-        blad
-      stdout: "Speler 1 is gewonnen!"
+        12
+      stdout: False
     - stdin: |-
-        steen
-        blad
-      stdout: "Speler 2 is gewonnen!"
+        1
+      stdout: True
     - stdin: |-
-        schaar
-        steen
-      stdout: "Speler 2 is gewonnen!"
+        10000
+      stdout: True
     - stdin: |-
-        blad
-        schaar
-      stdout: "Speler 2 is gewonnen!"
+        1212
+      stdout: False
     - stdin: |-
-        steen
-        steen
-        blad
-        steen
-      stdout: "Speler 1 is gewonnen!"
+        2500
+      stdout: True
     - stdin: |-
-        schaar
-        schaar
-        blad
-        blad
-        steen
-        schaar
-      stdout: "Speler 1 is gewonnen!"
+        12321
+      stdout: True
     - stdin: |-
-        blad
-        blad
-        blad
-        blad
-        steen
-        steen
-        schaar
-        blad
-      stdout: "Speler 1 is gewonnen!"
+        123211
+      stdout: False
     - stdin: |-
-        schaar
-        schaar
-        steen
-        blad
-      stdout: "Speler 2 is gewonnen!"
+        81
+      stdout: True
     - stdin: |-
-        blad
-        blad
-        steen
-        steen
-        schaar
-        schaar
-        steen
-        steen
-        schaar
-        schaar
-        blad
-        blad
-        steen
-        steen
-        schaar
-        schaar
-        schaar
-        steen
-      stdout: "Speler 2 is gewonnen!"
+        55
+      stdout: False
+    - stdin: |-
+        121
+      stdout: True
   
 
 
