@@ -1,0 +1,38 @@
+- tab: "Drankautomaat"
+  testcases:
+    - stdin: |- 
+        1.95
+        1.95
+      stdout: "Transactie voltooid.: Bedankt voor uw aankoop."
+    - stdin: |- 
+        4
+        4
+      stdout: "Transactie voltooid.: Bedankt voor uw aankoop."
+    - stdin: |- 
+        2.1
+        2.1
+      stdout: "Transactie voltooid.: Bedankt voor uw aankoop."
+    - stdin: |- 
+        2.5
+        10
+      stdout: |-
+        Transactie voltooid.: Bedankt voor uw aankoop.
+        Nog 7.5 krediet resterend.
+    - stdin: |- 
+        3.5
+        5
+      stdout: |-
+        Transactie voltooid.: Bedankt voor uw aankoop.
+        Nog 1.5 krediet resterend.
+    - stdin: |- 
+        4
+        3.2
+      stdout: "Transactie onderbroken: Onvoldoende krediet."
+    - stdin: |- 
+        3.5
+        2
+      stdout: "Transactie onderbroken: Onvoldoende krediet."
+
+
+
+
