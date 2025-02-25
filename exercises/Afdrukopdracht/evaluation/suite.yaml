@@ -16,20 +16,20 @@
         132
         129
       stdout: |-
-        "Afdrukopdracht voltooid."
-        "Waarschuwing: Nog maar 3 papieren in papierlade."
+        Afdrukopdracht voltooid.
+        Waarschuwing: Nog maar 3 papieren in papierlade.
     - stdin: |- 
         400
         320
       stdout: |-
-        "Afdrukopdracht voltooid."
-        "Waarschuwing: Nog maar 80 papieren in papierlade."
+        Afdrukopdracht voltooid.
+        Waarschuwing: Nog maar 80 papieren in papierlade.
     - stdin: |- 
         212
         113
       stdout: |-
-        "Afdrukopdracht voltooid."
-        "Waarschuwing: Nog maar 99 papieren in papierlade."
+        Afdrukopdracht voltooid.
+        Waarschuwing: Nog maar 99 papieren in papierlade.
     - stdin: |- 
         100
         120
