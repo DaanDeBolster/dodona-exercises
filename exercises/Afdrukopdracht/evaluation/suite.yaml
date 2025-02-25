@@ -1,0 +1,44 @@
+- tab: "Afdrukopdracht"
+  testcases:
+    - stdin: |- 
+        150
+        20
+      stdout: "Afdrukopdracht voltooid."
+    - stdin: |- 
+        311
+        129
+      stdout: "Afdrukopdracht voltooid."
+    - stdin: |- 
+        200
+        100
+      stdout: "Afdrukopdracht voltooid."
+    - stdin: |- 
+        132
+        129
+      stdout: |-
+        "Afdrukopdracht voltooid."
+        "Waarschuwing: Nog maar 3 papieren in papierlade."
+    - stdin: |- 
+        400
+        320
+      stdout: |-
+        "Afdrukopdracht voltooid."
+        "Waarschuwing: Nog maar 80 papieren in papierlade."
+    - stdin: |- 
+        212
+        113
+      stdout: |-
+        "Afdrukopdracht voltooid."
+        "Waarschuwing: Nog maar 99 papieren in papierlade."
+    - stdin: |- 
+        100
+        120
+      stdout: "Afdrukopdracht onderbroken: Onvoldoende papier in papierlade."
+    - stdin: |- 
+        1000
+        1001
+      stdout: "Afdrukopdracht onderbroken: Onvoldoende papier in papierlade."
+
+
+
+
