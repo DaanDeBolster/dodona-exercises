@@ -1,29 +1,38 @@
-Schrijf een programma dat detecteerd of een printer nog voldoende papier heeft. Als invoer neem je twee getallen: Het aantal papieren dat nog in de papierlade zitten, en het aantal papieren dat de volgende afdrukopdracht nodig heeft.
-
-Als er minder papieren in de papierlade zitten dan de afdrukopdracht nodig heeft, geef dan op het scherm `Afdrukopdracht onderbroken: Onvoldoende papier in papierlade.` weer.
-In het andere geval, geef dan `Afdrukopdracht voltooid`. Als er na de afdrukopdracht minder dan 100 papieren in de papierlade zitten. Print dan na `Afdrukopdracht voltooid.` ook `Waarschuwing: Nog maar ?? papieren in papierlade.`. Met in plaats van ?? het aantal papieren die na de afdrukopdracht nog overblijven.
+Schrijf een programma dat eerst aan de gebruiker een maximumwaarde vraagt. Daarna mag de gebruiker onbeperkt getallen ingeven. Het programma telt hoeveel van de ingegeven getallen groter of gelijk zijn aan de maximumwaarde. Als de gebruiker `0` ingeeft stopt het programma en wordt het aantal getallen groter dan de maximumwaarde op het scherm geprint.
 
 ## Invoer
 
-- Een geheel getal, het aantal papieren in de papierlade.
-- Een geheel getal, het aantal papieren voor de volgende printopdracht.
+- Een reëel getal: De maximumwaarde.
+- Een reeks reële getallen, beëindigd met `0`.
+
+## Uitvoer
+
+- Een geheel getal: Het aantal ingevoerde getallen groter dan of gelijk aan de maximumwaarde.
 
 
 ## Voorbeelden
 
 ```
->>> 200
->>> 50
-Afdrukopdracht voltooid.
+>>> 200     # Maximumwaarde
+>>> 16
+>>> 201
+>>> 500
+>>> 199
+>>> 1
+>>> 0
+2
 
->>> 123
->>> 60
-Afdrukopdracht voltooid
-Waarschuwing: Nog maar 63 papieren in papierlade.
-
->>> 94
->>> 100
-Afdrukopdracht onderbroken: Onvoldoende papier in papierlade.
+>>> 10      # Maximumwaarde
+>>> 9
+>>> 9
+>>> 11
+>>> 12
+>>> 25
+>>> 17
+>>> 8
+>>> 15
+>>> 10
+5
 ```
 
 
