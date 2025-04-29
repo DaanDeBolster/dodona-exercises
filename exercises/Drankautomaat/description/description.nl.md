@@ -1,4 +1,4 @@
-Schrijf een programma dat een drankautomaat aanstuurd wanneer iemand een drankje wil kopen. Als invoer neem je twee getallen: De kostprijs van een drankje, en het bedrag dat iemand als krediet aan de drankautomaat heeft betaald.
+Schrijf een programma dat een drankautomaat aanstuurd wanneer iemand een drankje wil kopen. Als invoer neem je twee getallen: De kostprijs van een drankje, en het bedrag dat iemand aan de drankautomaat heeft betaald (het krediet).
 
 Als het krediet kleiner is dan de kostprijs van het drankje, geef dan op het scherm `Transactie onderbroken: Onvoldoende krediet.` weer.
 In het andere geval, geef dan `Transactie voltooid: Bedankt voor uw aankoop.`. Als er na de transactie nog krediet over is, print dan na `Transactie voltooid: Bedankt voor uw aankoop.` ook `Nog ?? krediet resterend.`. Met in plaats van ?? het krediet dat na de transactie overblijft.

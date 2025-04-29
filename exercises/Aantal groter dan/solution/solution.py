@@ -1,6 +1,6 @@
 maxval = float(input())
 n = 0
-repeat = False
+repeat = True
 while repeat:
     x = float(input())
     if x == 0:

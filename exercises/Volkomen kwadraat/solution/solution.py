@@ -1,8 +1,7 @@
-getal = int(input())
-n = 1
-isKwadraat = False
-while n**2 <= getal:
-    if n**2 == getal:
-        isKwadraat = True
-    n += 1
-print(isKwadraat)
+bedrag = float(input())
+eraf = float(input())
+
+if bedrag - eraf < 0:
+    print("Saldo ontoereikend")
+else:
+    print(bedrag -eraf, "op rekening")
