@@ -8,7 +8,7 @@ Of met andere woorden, de vierkantswortel van een volkomen kwadraat is een steed
 
 - 1 geheel getal, waarvan je mag uitgaan dat het groter dan nul.
 
-## Invoer
+## Uitvoer
 
 - `True` als het ingevoerde getal een volkomen kwadraat is. Anders `False`.
 

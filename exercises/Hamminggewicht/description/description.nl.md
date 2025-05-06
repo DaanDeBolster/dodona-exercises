@@ -1,26 +1,28 @@
-Schrijf een programma dat aan de gebruiker een tekst vraagt, en nadien een getal `n`. Het programma geeft een dezelfde tekst terug, maar `n` keer herhaalt.
+Een bitsequentie is een reeks opeenvolgende symbolen die ofwel 0 of 1 kunnen zijn. In dit geval spreken we van een lijst die enkel `0` of `1` kan bevatten.
+
+Het Hamminggewicht van een bitsequentie is het aantal keer dat `1` in de bitsequentie voorkomt.
 
 ## Invoer
 
-- Een string die de tekst bevat.
-- Een geheel getal `n`, waarvan je ervan uit mag gaan dat het groter is dan 0.
+- Een lijst die een bitsequentie voorstelt.
 
 ## Uitvoer
 
-Een string die de ingevoerde tekst `n` keer herhaalt.
+- Een geheel getal, het Hamminggewicht.
+
+## Opmerking
+
+BRR BRR PATAPIM
 
 ## Voorbeelden
 
 ```
->>> "Hallo"
->>> 3
-"HalloHalloHallo"
+>>> [1, 0, 1, 0, 1, 1, 0]
+4
 
->>> "Python"
->>> 7
-"PythonPythonPythonPythonPythonPythonPython"
+>>> [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+11
 
->>> "Tekst"
->>> 1
-"Tekst"
+>>> [0, 0, 0, 0, 0, 0]
+0
 ```
