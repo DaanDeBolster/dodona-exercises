@@ -12,17 +12,21 @@ Het Hamminggewicht van een bitsequentie is het aantal keer dat `1` in de bitsequ
 
 ## Opmerking
 
-BRR BRR PATAPIM
+Start je programma met onderstaande code om aan de gebruiker een reeks getallen te vragen, en ze nadien als lijst in een variabele op te slaan.
+
+```
+bitsequentie = [int(x) for x in input().split()]
+```
 
 ## Voorbeelden
 
 ```
->>> [1, 0, 1, 0, 1, 1, 0]
+>>> 1 0 1 0 1 1 0
 4
 
->>> [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+>>> 1 1 1 1 1 1 1 1 1 1 0 1
 11
 
->>> [0, 0, 0, 0, 0, 0]
+>>> 0 0 0 0 0 0
 0
 ```
