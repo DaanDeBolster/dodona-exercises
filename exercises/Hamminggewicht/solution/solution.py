@@ -1,6 +1,7 @@
-bitstr = input()
-hamming = 0
-for bit in bitstr:
-    if bit != '0':
-        hamming += 1
-print(hamming) 
+bitsequentie = [int(x) for x in input().split()]
+
+hamminggewicht = 0
+for bit in bitsequentie:
+    if bit == 1:
+        hamminggewicht += 1
+print(hamminggewicht)
