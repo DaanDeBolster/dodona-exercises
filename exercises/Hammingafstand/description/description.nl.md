@@ -14,7 +14,7 @@ Gegeven twee bitsequenties met dezelfde lengte. Dan is de Hammingafstand tussen 
 
 Start je programma met onderstaande code om aan de gebruiker twee reeksen getallen te vragen, en ze nadien als lijsten in een variabele op te slaan.
 
-```
+```Python
 bitsequentie_1 = [int(x) for x in input().split()]
 bitsequentie_2 = [int(x) for x in input().split()]
 ```
