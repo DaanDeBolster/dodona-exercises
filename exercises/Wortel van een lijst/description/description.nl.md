@@ -16,21 +16,9 @@ Start je programma met onderstaande code om aan de gebruiker een reeksen getalle
 lijst = [float(x) for x in input().split()]
 ```
 
-## Voorbeelden
+## Voorbeeld
 
 ```
->>> 1 0 1 0 1 1 0
-0
-
->>> 0 1 1 0 0 0 0 1
->>> 1 0 0 1 1 1 1 0
-8
-
->>> 0 1 1 1 1 0
->>> 0 0 1 0 0 1
-4
-
->>> 0 0 1 0 1
->>> 0 1 0 0 1
-2
+>>> 4 9 16 25 36 49
+[2.0, 3.0, 4.0, 5.0, 6.0, 7.0]
 ```
