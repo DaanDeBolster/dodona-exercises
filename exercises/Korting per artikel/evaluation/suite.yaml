@@ -19,11 +19,11 @@
     - stdin: |-
         1.8
         12
-        30
+        50
       stdout: |-
         Totale prijs zonder korting: 21.6
-        Totale korting: 6.48
-        Totale prijs met korting: 15.12
+        Totale korting: 10.8
+        Totale prijs met korting: 10.8
     - stdin: |-
         10 10 13 18 9 4 1 1 2
         1  1  1  1  1 1 1 5 1
