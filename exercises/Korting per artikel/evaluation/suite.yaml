@@ -8,6 +8,30 @@
         Totale prijs zonder korting: 19.2
         Totale korting: 4.0
         Totale prijs met korting: 15.2
+    - stdin: |-
+        3 2 4.5 12 10
+        2 2 2   2  1
+        0 0 0   0  10
+      stdout: |-
+        Totale prijs zonder korting: 53.0
+        Totale korting: 1.0
+        Totale prijs met korting: 52.0
+    - stdin: |-
+        1.8
+        12
+        30
+      stdout: |-
+        Totale prijs zonder korting: 21.6
+        Totale korting: 6.48
+        Totale prijs met korting: 15.12
+    - stdin: |-
+        10 10 13 18 9 4 1 1 2
+        1  1  1  1  1 1 1 5 1
+        0  0  0  0  0 0 0 0 0
+      stdout: |-
+        Totale prijs zonder korting: 72.0
+        Totale korting: 0.0
+        Totale prijs met korting: 72.0
 
 
 
