@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "en": "Interval",
+      "nl": "Interval"
+    }
+  },
+  "labels": [
+    "python",
+    "for"
+  ],
+  "internals": {
+    "token": "GTVzhpJG565ZstSA7PQM2ypVAFzMeMUa_6zJvSUxh4c46XqeCfyc9Q2awb2m_Uhy",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
