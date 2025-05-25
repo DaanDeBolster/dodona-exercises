@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "en": "Lijst doormidden",
+      "nl": "Lijst doormidden"
+    }
+  },
+  "labels": [
+    "python",
+    "for"
+  ],
+  "internals": {
+    "token": "RVGmh-zicDIAb5_REa4DuwIrPbPQEUFmQIb75uSVp3UenvMQhXX72XD8Ra4c6Af9",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
