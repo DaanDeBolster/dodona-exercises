@@ -1,0 +1,16 @@
+{
+  "description": {
+    "names": {
+      "en": "-",
+      "nl": "Verdubbel n keer"
+    }
+  },
+  "labels": [
+    "python"
+  ],
+  "internals": {
+    "token": "j6E6mKmIZvhiTF8SEqiTBiJ78Bay5QvB_9nbAk4rCj8jiUAQdYxyfPiEVGbx52uT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "access": "public"
+}
