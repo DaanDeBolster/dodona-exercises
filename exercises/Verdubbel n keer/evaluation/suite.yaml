@@ -1,4 +1,4 @@
-- tab: "Tel van a naar b"
+- tab: "Verdubbel n keer"
   testcases:
     - stdin: |- 
         2.5
@@ -13,7 +13,6 @@
         -0.1
         8
       stdout: |- 
-        -0.1
         -0.2
         -0.4
         -0.8
@@ -22,6 +21,7 @@
         -6.4
         -12.8
         -25.6
+        -51.2
     - stdin: |- 
         50
         1

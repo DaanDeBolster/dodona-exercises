@@ -22,7 +22,6 @@ Schrijf een programma dat aan de gebruiker twee getallen `a` en `n` vraagt, en n
 
 >>> -0.1
 >>> 8
--0.1
 -0.2
 -0.4
 -0.8
@@ -31,6 +30,7 @@ Schrijf een programma dat aan de gebruiker twee getallen `a` en `n` vraagt, en n
 -6.4
 -12.8
 -25.6
+-51.2
 ```
 
 
