@@ -3,19 +3,19 @@
     - stdin: |-
         1 4 6 9 -5 8 5 2
         7 6 8 2 -6 7 4 1
-      stdout: "['1', '4', '6', '9', '-5', '7', '4', '1']"
+      stdout: "['1', '4', '6', '9', '-6', '7', '4', '1']"
     - stdin: |-
         True True True True
         False False False False
-      stdout: "['True', 'True', 'True', 'False']"
+      stdout: "['True', 'True', 'False', 'False']"
     - stdin: |-
         Dit is de eerste helft 0 0 0 0 0
         0 0 0 0 0 Dit is de tweede helft
-      stdout: "['Dit', 'is', 'de', 'eerste', 'helft', '0', 'is', 'de', 'tweede', 'helft']"
+      stdout: "['Dit', 'is', 'de', 'eerste', 'helft', 'Dit', 'is', 'de', 'tweede', 'helft']"
     - stdin: |-
         1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
         0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-      stdout: "['1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0']"
+      stdout: "['1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '0', '0', '0', '0', '0', '0', '0', '0', '0', '0']"
       
 
 
